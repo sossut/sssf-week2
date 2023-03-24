@@ -67,3 +67,4 @@ User:
 - login users email as username
 - create admin manually to user collection: admin@metropolia.fi, password: 1234
 - Always empty your cats after tests.
+# sssf-week2
